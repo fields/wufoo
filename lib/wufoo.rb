@@ -1,7 +1,7 @@
 $:.unshift File.dirname(__FILE__)
 
 require 'rubygems'
-gem 'httparty', '0.5.2'
+gem 'httparty'
 require 'httparty'
 
 require 'wufoo/client'
